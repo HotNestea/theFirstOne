@@ -1,4 +1,12 @@
-#Csharp
-.exe
-.log
-.txt
+# Executables
+*.exe
+*.out
+# Compiled Static libraries
+*.lib
+# Compiled Object files
+*.obj
+# Compiled Dynamic libraries
+*.dll
+# Log and txt files
+*.log
+*.exe
